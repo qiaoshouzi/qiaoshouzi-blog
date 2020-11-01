@@ -19,6 +19,8 @@
 
 ![](https://gitee.com/qiaoshouzi/PicGo_Img/raw/master/Img/29.png)
 
+***
+
 参与方式：
 使用微信打开这个链接：https://lucky.nocode.com/v2/s/8122rgo69DG
 
