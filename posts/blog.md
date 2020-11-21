@@ -10,7 +10,7 @@
 **稳定链接**：（使用全球知名*慈善家*[Cloudflare](cloudflare.com)的服务Stream，全球CDN，设备适配高，包含多种画质，十分稳定）
 
 <iframe
-  src="https://iframe.videodelivery.net/9e111be19fc0aeb312902aad92055e5e"
+  src="https://iframe.videodelivery.net/ac2c5159db7a1b7c8e963c6092895eb7"
   style="border: none;"
   height="200"
   width="320"
