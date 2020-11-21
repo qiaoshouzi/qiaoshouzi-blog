@@ -11,7 +11,7 @@
 **稳定链接**：（使用全球知名*慈善家*[Cloudflare](cloudflare.com)的服务Stream，全球CDN，设备适配高，包含多种画质，十分稳定）
 
 链接：适配上传中，请稍等，请选择使用临时链接观看或等待稳定链接
-预览：123
+预览：
 <iframe
   src="https://iframe.videodelivery.net/9e111be19fc0aeb312902aad92055e5e"
   style="border: none;"
