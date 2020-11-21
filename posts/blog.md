@@ -11,21 +11,19 @@
 **稳定链接**：（使用全球知名*慈善家*[Cloudflare](cloudflare.com)的服务Stream，全球CDN，设备适配高，包含多种画质，十分稳定）
 
 链接：适配上传中，请稍等，请选择使用临时链接观看或等待稳定链接
-
-
-
-**临时链接**：（临时，所以会出现卡顿，随时失效，各种设备适配低；存放在阿里云上，链接太长了所以用了短链接）
-
-链接：http://mrw.so/5MyXQm
-
-*****备注：链接失效时可能会更新，但是毕竟作者不是24H在线，更换存在延迟，请谅解
-
-
+预览：
+<iframe
+  src="https://iframe.videodelivery.net/9e111be19fc0aeb312902aad92055e5e"
+  style="border: none;"
+  height="720"
+  width="1280"
+  allow="accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;"
+  allowfullscreen="true"
+  autoplay="true"
+></iframe>
 
 **度盘链接下载**：（请勿进行售卖视频等可能损害`网易(杭州)网络有限公司`的违法行为，如果违法，与作者本人无任何关系）
 
 链接：在上传中，请稍等
 
 文件大小：12 GB（下载时间会过长，如果你不办理百度会员绝对不可能下载成功的，所以你没会员就放弃吧，如果你没有12 G的空间也放弃吧）
-
-<div style="position: relative; padding-top: 56.25%;"><iframe src="https://iframe.videodelivery.net/ac2c5159db7a1b7c8e963c6092895eb7?muted=true&preload=true&loop=true&autoplay=true" style="border: none; position: absolute; top: 0; height: 100%; width: 100%;"  allow="accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;" allowfullscreen="true"></iframe></div>
