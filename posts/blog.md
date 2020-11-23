@@ -22,7 +22,7 @@
 <iframe
     height=200
     width=320
-    src="http://mrw.so/5xz7Zc"
+    src="https://ccp-bj29-video-preview.oss-cn-beijing.aliyuncs.com/bj29%2Fsha1_668FCCDA4A1B6628C2091DDBDFECFB46B5F9635A_13195296990_%2FFHD%2Fmaster.mp4?Expires=1606136406&OSSAccessKeyId=LTAIsE5mAn2F493Q&Signature=GnIC%2FvSQv%2BbNK8VEUhx%2BUF1f8bE%3D"
     frameborder=0
     allowfullscreen>
 </iframe>
