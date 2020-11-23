@@ -7,8 +7,8 @@
 原理：解析出直播视频真正源，放到[OBS](https://obsproject.com)进行录像
 
 
-**稳定链接**：（使用全球知名*慈善家*[Cloudflare](cloudflare.com)的服务Stream，全球CDN，设备适配高，包含多种画质，十分稳定）
-
+**稳定链接**：
+节点1：来自[Cloudflare](cloudflare.com)
 <iframe
   src="https://iframe.videodelivery.net/ac2c5159db7a1b7c8e963c6092895eb7"
   style="border: none;"
@@ -18,8 +18,14 @@
   allowfullscreen="true"
   autoplay="true"
 ></iframe>
-
-
+节点2：来自[阿里云盘](www.aliyundrive.com)
+<iframe
+    height=200
+    width=320
+    src="http://mrw.so/5xz7Zc"
+    frameborder=0
+    allowfullscreen>
+</iframe>
 **度盘链接下载**：（请勿进行售卖视频等可能损害`网易(杭州)网络有限公司`的违法行为，如果违法，与作者本人无任何关系）
 
 链接：在上传中，请稍等
